@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "service_key": "systems",
+    "service_name": "Computers / Workstations",
+    "price_per_unit": 475,
+    "unit": "per system/month",
+    "created_at": "2026-05-17 02:33:55"
+  },
+  {
+    "id": 2,
+    "service_key": "cctv",
+    "service_name": "CCTV Cameras",
+    "price_per_unit": 325,
+    "unit": "per camera/month",
+    "created_at": "2026-05-17 02:33:55"
+  },
+  {
+    "id": 3,
+    "service_key": "servers",
+    "service_name": "Servers",
+    "price_per_unit": 3000,
+    "unit": "per server/month",
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "id": 4,
+    "service_key": "printers",
+    "service_name": "Printers",
+    "price_per_unit": 1000,
+    "unit": "per printer/month",
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "id": 5,
+    "service_key": "biometrics",
+    "service_name": "Biometric Devices",
+    "price_per_unit": 800,
+    "unit": "per device/month",
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "id": 6,
+    "service_key": "smartlocks",
+    "service_name": "Smart Door Locks",
+    "price_per_unit": 1200,
+    "unit": "per lock/month",
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "id": 7,
+    "service_key": "intercom",
+    "service_name": "Intercom Systems",
+    "price_per_unit": 1500,
+    "unit": "per unit/month",
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "id": 8,
+    "service_key": "iot",
+    "service_name": "IoT Devices",
+    "price_per_unit": 600,
+    "unit": "per device/month",
+    "created_at": "2026-05-17 02:33:56"
+  }
+]

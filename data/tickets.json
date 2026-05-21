@@ -1,0 +1,41 @@
+[
+  {
+    "id": "TCG-001",
+    "client_id": 1,
+    "company": "Prayagraj Finance Corp",
+    "subject": "Server not booting after power cut",
+    "priority": "Critical",
+    "status": "In Progress",
+    "technician": "Abhishek T.",
+    "notes": "UPS failure — replacement ordered",
+    "created": "2026-03-02",
+    "updated": "2026-03-03",
+    "created_at": "2026-05-17 02:33:55"
+  },
+  {
+    "id": "TCG-002",
+    "client_id": 2,
+    "company": "Rameshwari Exports",
+    "subject": "Core switch port failure on floor 2",
+    "priority": "High",
+    "status": "Closed",
+    "technician": null,
+    "notes": "",
+    "created": "2026-03-04",
+    "updated": "2026-05-17",
+    "created_at": "2026-05-17 02:33:55"
+  },
+  {
+    "id": "TCG-003",
+    "client_id": 3,
+    "company": "Ganga Residency Hotels",
+    "subject": "CCTV NVR recording gap — lobby",
+    "priority": "Medium",
+    "status": "Resolved",
+    "technician": "Sanjay P.",
+    "notes": "NVR HDD replaced.",
+    "created": "2026-03-01",
+    "updated": "2026-03-02",
+    "created_at": "2026-05-17 02:33:55"
+  }
+]

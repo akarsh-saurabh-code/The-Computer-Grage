@@ -1,0 +1,498 @@
+[
+  {
+    "category": "hd_dvr",
+    "item_key": "4_new",
+    "label": "4 Channel DVR — New",
+    "price": 2800,
+    "id": 1,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_dvr",
+    "item_key": "4_refurb",
+    "label": "4 Channel DVR — Refurb",
+    "price": 1800,
+    "id": 2,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_dvr",
+    "item_key": "8_new",
+    "label": "8 Channel DVR — New",
+    "price": 3800,
+    "id": 3,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_dvr",
+    "item_key": "8_refurb",
+    "label": "8 Channel DVR — Refurb",
+    "price": 2400,
+    "id": 4,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_dvr",
+    "item_key": "16_new",
+    "label": "16 Channel DVR — New",
+    "price": 7000,
+    "id": 5,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_dvr",
+    "item_key": "16_refurb",
+    "label": "16 Channel DVR — Refurb",
+    "price": 4500,
+    "id": 6,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_dvr",
+    "item_key": "32_new",
+    "label": "32 Channel DVR — New",
+    "price": 13000,
+    "id": 7,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_dvr",
+    "item_key": "32_refurb",
+    "label": "32 Channel DVR — Refurb",
+    "price": 8000,
+    "id": 8,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "2.4_bullet",
+    "label": "2.4MP Bullet Camera",
+    "price": 850,
+    "id": 9,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "2.4_dome",
+    "label": "2.4MP Dome Camera",
+    "price": 900,
+    "id": 10,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "2.4_ptz",
+    "label": "2.4MP PTZ Camera",
+    "price": 3500,
+    "id": 11,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "5_bullet",
+    "label": "5MP Bullet Camera",
+    "price": 1500,
+    "id": 12,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "5_dome",
+    "label": "5MP Dome Camera",
+    "price": 1600,
+    "id": 13,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "5_ptz",
+    "label": "5MP PTZ Camera",
+    "price": 5500,
+    "id": 14,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "8_bullet",
+    "label": "8MP Bullet Camera",
+    "price": 2800,
+    "id": 15,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "8_dome",
+    "label": "8MP Dome Camera",
+    "price": 3000,
+    "id": 16,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_cam",
+    "item_key": "8_ptz",
+    "label": "8MP PTZ Camera",
+    "price": 9000,
+    "id": 17,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_hdd",
+    "item_key": "500",
+    "label": "500 GB HDD",
+    "price": 1900,
+    "id": 18,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_hdd",
+    "item_key": "1000",
+    "label": "1 TB HDD",
+    "price": 2900,
+    "id": 19,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_hdd",
+    "item_key": "2000",
+    "label": "2 TB HDD",
+    "price": 4800,
+    "id": 20,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_hdd",
+    "item_key": "3000",
+    "label": "3 TB HDD",
+    "price": 7000,
+    "id": 21,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_hdd",
+    "item_key": "4000",
+    "label": "4 TB HDD",
+    "price": 9200,
+    "id": 22,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_wire",
+    "item_key": "3plus1",
+    "label": "3+1 CCTV Cable 100m",
+    "price": 950,
+    "id": 23,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_wire",
+    "item_key": "coaxial",
+    "label": "RG59 Coaxial 100m",
+    "price": 1100,
+    "id": 24,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_acc",
+    "item_key": "dc",
+    "label": "DC Power Connector",
+    "price": 18,
+    "id": 25,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_acc",
+    "item_key": "bnc",
+    "label": "BNC Connector",
+    "price": 22,
+    "id": 26,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_acc",
+    "item_key": "cambox",
+    "label": "Camera Junction Box",
+    "price": 130,
+    "id": 27,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_acc",
+    "item_key": "psupply_4",
+    "label": "Power Supply 4-cam",
+    "price": 380,
+    "id": 28,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_acc",
+    "item_key": "psupply_8",
+    "label": "Power Supply 8-cam",
+    "price": 680,
+    "id": 29,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_acc",
+    "item_key": "psupply_16",
+    "label": "Power Supply 16-cam",
+    "price": 1200,
+    "id": 30,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "hd_acc",
+    "item_key": "psupply_32",
+    "label": "Power Supply 32-cam",
+    "price": 2200,
+    "id": 31,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "4_poe",
+    "label": "4CH NVR with PoE",
+    "price": 4200,
+    "id": 32,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "4_nopoe",
+    "label": "4CH NVR no PoE",
+    "price": 3200,
+    "id": 33,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "8_poe",
+    "label": "8CH NVR with PoE",
+    "price": 6200,
+    "id": 34,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "8_nopoe",
+    "label": "8CH NVR no PoE",
+    "price": 4800,
+    "id": 35,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "16_poe",
+    "label": "16CH NVR with PoE",
+    "price": 10500,
+    "id": 36,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "16_nopoe",
+    "label": "16CH NVR no PoE",
+    "price": 8000,
+    "id": 37,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "32_poe",
+    "label": "32CH NVR with PoE",
+    "price": 18000,
+    "id": 38,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_nvr",
+    "item_key": "32_nopoe",
+    "label": "32CH NVR no PoE",
+    "price": 14000,
+    "id": 39,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "2_bullet",
+    "label": "2MP Bullet Camera",
+    "price": 1300,
+    "id": 40,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "2_dome",
+    "label": "2MP Dome Camera",
+    "price": 1400,
+    "id": 41,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "2_ptz",
+    "label": "2MP PTZ Camera",
+    "price": 7000,
+    "id": 42,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "4_bullet",
+    "label": "4MP Bullet Camera",
+    "price": 1900,
+    "id": 43,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "4_dome",
+    "label": "4MP Dome Camera",
+    "price": 2100,
+    "id": 44,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "4_ptz",
+    "label": "4MP PTZ Camera",
+    "price": 9000,
+    "id": 45,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "5_bullet",
+    "label": "5MP Bullet Camera",
+    "price": 2400,
+    "id": 46,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "5_dome",
+    "label": "5MP Dome Camera",
+    "price": 2600,
+    "id": 47,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "5_ptz",
+    "label": "5MP PTZ Camera",
+    "price": 11000,
+    "id": 48,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "8_bullet",
+    "label": "8MP Bullet Camera",
+    "price": 3800,
+    "id": 49,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "8_dome",
+    "label": "8MP Dome Camera",
+    "price": 4200,
+    "id": 50,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_cam",
+    "item_key": "8_ptz",
+    "label": "8MP PTZ Camera",
+    "price": 16000,
+    "id": 51,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_hdd",
+    "item_key": "500",
+    "label": "500 GB HDD",
+    "price": 1900,
+    "id": 52,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_hdd",
+    "item_key": "1000",
+    "label": "1 TB HDD",
+    "price": 2900,
+    "id": 53,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_hdd",
+    "item_key": "2000",
+    "label": "2 TB HDD",
+    "price": 4800,
+    "id": 54,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_hdd",
+    "item_key": "3000",
+    "label": "3 TB HDD",
+    "price": 7000,
+    "id": 55,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_hdd",
+    "item_key": "4000",
+    "label": "4 TB HDD",
+    "price": 9200,
+    "id": 56,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_wire",
+    "item_key": "cat6",
+    "label": "CAT6 Cable 100m",
+    "price": 1300,
+    "id": 57,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_wire",
+    "item_key": "cat5e",
+    "label": "CAT5e Cable 100m",
+    "price": 950,
+    "id": 58,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_acc",
+    "item_key": "cambox",
+    "label": "Camera Mount Box",
+    "price": 160,
+    "id": 59,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_acc",
+    "item_key": "poe_sw_4",
+    "label": "PoE Switch 4-Port",
+    "price": 2000,
+    "id": 60,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_acc",
+    "item_key": "poe_sw_8",
+    "label": "PoE Switch 8-Port",
+    "price": 3800,
+    "id": 61,
+    "created_at": "2026-05-17 02:33:56"
+  },
+  {
+    "category": "ip_acc",
+    "item_key": "poe_sw_16",
+    "label": "PoE Switch 16-Port",
+    "price": 7000,
+    "id": 62,
+    "created_at": "2026-05-17 02:33:56"
+  }
+]
