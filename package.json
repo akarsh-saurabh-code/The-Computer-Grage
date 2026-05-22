@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node server.js",
     "dev-server": "node server.js",
-    "dev-client": "npx vite --port 5173"
+    "dev-client": "npx vite --port 5173",
+    "build": "vite build"
   },
   "dependencies": {
     "react": "^18.2.0",
