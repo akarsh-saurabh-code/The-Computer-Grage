@@ -16,7 +16,7 @@ const CO = {
 
 import CCTVCalculator from "./CCTVCalculator";
 
-const API = "http://localhost:3001/api";
+const API = "https://tcg-backend-fvnc.onrender.com/api";
 
 /* ─── API helper ─────────────────────────────────────────────── */
 async function req(method, path, body, token) {

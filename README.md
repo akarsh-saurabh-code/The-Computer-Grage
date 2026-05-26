@@ -14,7 +14,7 @@ npx vite
 
 ### Browser mein kholo
 ```
-http://localhost:5173
+https://tcg-backend-fvnc.onrender.com
 ```
 
 ---

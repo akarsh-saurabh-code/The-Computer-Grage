@@ -277,7 +277,7 @@ app.listen(PORT, ()=>{
   console.log('');
   console.log('╔══════════════════════════════════════╗');
   console.log('║   The Computer Garage — Server       ║');
-  console.log(`║   Running on http://localhost:${PORT}  ║`);
+  console.log(`║   Running on https://tcg-backend-fvnc.onrender.com  ║`);
   console.log('║   Data saved in /data/ folder        ║');
   console.log('╚══════════════════════════════════════╝');
   console.log('');

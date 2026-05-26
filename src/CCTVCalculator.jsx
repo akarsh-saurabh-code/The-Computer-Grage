@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "http://localhost:3001/api";
+const API = "https://tcg-backend-fvnc.onrender.com/api";
 
 // Default prices (fallback agar server na chale)
 const DEFAULT_PRICES = {
